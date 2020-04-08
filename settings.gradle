@@ -1,0 +1,2 @@
+rootProject.name='AndroidViewAndTouch'
+include ':app'
